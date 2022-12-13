@@ -1,0 +1,1 @@
+# kitchenware_classification
